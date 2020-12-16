@@ -1,4 +1,4 @@
-# Hey there :wave:
+# Hello :wave:
 
 [![](https://github.com/cangshudada/cangshudada/blob/main/dino.gif)](#)
 
