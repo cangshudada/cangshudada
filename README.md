@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-[![](https://github.com/cangshudada/cangshudada/blob/master/dino.gif)](#)
+[![](https://github.com/cangshudada/cangshudada/blob/main/dino.gif)](#)
 
 <p align="center"> 
   Visitor count<br>
